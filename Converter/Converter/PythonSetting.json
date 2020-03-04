@@ -1,0 +1,7 @@
+{
+
+  "TestFramework": "unittest",
+  "UnitTestRootDirectory": "Testing",
+  "UnitTestPattern": "Test_*.py",
+  "SearchPaths": [ ".\\Testing" ]
+}
